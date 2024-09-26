@@ -1,5 +1,5 @@
 # Laptop_Sales_PowerBI
-- Dashboard displaying laptop sales
-- The sales are filtered using different slicers like year, month, location
-- Good design on dashboard
-- Dataset is provided
+- Developed an interactive dashboard to display laptop sales data.
+- Implemented slicers for filtering by year, month, and location.
+- Designed a clean, user-friendly interface for effective data visualization.
+- Provided dataset for analysis and demonstration.
