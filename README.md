@@ -22,6 +22,6 @@ This interactive dashboard, built with Streamlit and Plotly, provides an insight
 - Google Sheets API: Data storage and live updates
 - Python: Data processing and handling
 
-![Screenshot 2024-10-23 180846](https://github.com/user-attachments/assets/439edcde-56dc-4a09-be76-689aa15887d4)
+
 
 
